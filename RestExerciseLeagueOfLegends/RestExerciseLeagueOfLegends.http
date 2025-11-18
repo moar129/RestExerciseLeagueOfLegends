@@ -1,0 +1,6 @@
+@RestExerciseLeagueOfLegends_HostAddress = http://localhost:5014
+
+GET {{RestExerciseLeagueOfLegends_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

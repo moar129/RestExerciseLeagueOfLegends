@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LeagueOfLegendsLib/LeagueOfLegendsLib.csproj" />
+  <Project Path="RestExerciseLeagueOfLegends/RestExerciseLeagueOfLegends.csproj" />
+</Solution>
